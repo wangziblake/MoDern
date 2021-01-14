@@ -4,10 +4,12 @@ The proof-of-concept of merging the optimization with deep learning, as a reliab
 The preprint paper can be seen in https://arxiv.org/abs/2012.14830.
 
 Email: Xiaobo Qu (quxiaobo@xmu.edu.cn) and Zi Wang (wangziblake@163.com)
+
 Homepage: http://csrc.xmu.edu.cn
 
 ## Training datasets
 The synthetic training datasets used in MoDern paper are shared at https://drive.google.com/file/d/1ohYiRVZWWdZOqLET5E2AYGHYOYj5QvEV/view?usp=sharing.
+
 If you want to use the training datasets, please cite following paper:
 
 Zi Wang et al., Accelerated NMR spectroscopy: Merge Optimization with Deep Learning, arXiv preprint, arXiv:2012.14830, 2020. URL: https://arxiv.org/abs/2012.14830.
