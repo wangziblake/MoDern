@@ -3,7 +3,7 @@ The proof-of-concept of merging the optimization with deep learning, as a reliab
 
 The preprint paper can be seen in https://arxiv.org/abs/2012.14830.
 
-Email: Xiaobo Qu (quxiaobo@xmu.edu.cn) and Zi Wang (wangziblake@163.com)
+Email: Xiaobo Qu (quxiaobo@xmu.edu.cn) CC: Zi Wang (wangziblake@163.com)
 
 Homepage: http://csrc.xmu.edu.cn
 
