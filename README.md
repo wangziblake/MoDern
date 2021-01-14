@@ -3,4 +3,4 @@ The proof-of-concept of merging the optimization with deep learning, as a reliab
 
 The preprint paper can be seen in https://arxiv.org/abs/2012.14830.
 
-# MoDern -Accelerated NMR Spectroscopy: Merge Optimization with Deep Learning
+## MoDern -Accelerated NMR Spectroscopy: Merge Optimization with Deep Learning
