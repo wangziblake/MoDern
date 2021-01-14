@@ -10,6 +10,6 @@ Homepage: http://csrc.xmu.edu.cn
 ## Training datasets
 The synthetic training datasets used in MoDern paper are shared at https://drive.google.com/file/d/1ohYiRVZWWdZOqLET5E2AYGHYOYj5QvEV/view?usp=sharing.
 
-If you want to use the training datasets, please cite following paper:
+If you want to use the training datasets, please cite the following paper:
 
 Zi Wang et al., Accelerated NMR spectroscopy: Merge Optimization with Deep Learning, arXiv preprint, arXiv:2012.14830, 2020. URL: https://arxiv.org/abs/2012.14830.
