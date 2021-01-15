@@ -9,7 +9,6 @@ Homepage: http://csrc.xmu.edu.cn
 
 ## Training datasets
 The synthetic training datasets used in MoDern paper are shared at:
-
 https://drive.google.com/file/d/1bZAP-ittB94wm0hB3SfVsvqXGwk05tkg/view?usp=sharing.
 
 If you want to use the training datasets, please cite the following paper:
