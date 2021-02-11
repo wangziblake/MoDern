@@ -30,7 +30,7 @@ If you want to use the MoDern-Cloud, please cite the following paper:
 Zi Wang et al., Accelerated NMR spectroscopy: Merge Optimization with Deep Learning, arXiv preprint, arXiv:2012.14830, 2020.
 
 ## Training datasets for MoDern
-The synthetic training datasets used in MoDern paper are shared at: https://drive.google.com/file/d/1bZAP-ittB94wm0hB3SfVsvqXGwk05tkg/view?usp=sharing.
+The synthetic training datasets used in MoDern are shared at: https://drive.google.com/file/d/1bZAP-ittB94wm0hB3SfVsvqXGwk05tkg/view?usp=sharing.
 
 After requesting the access, please email me at wangzi1023@stu.xmu.edu.cn.
 
