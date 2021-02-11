@@ -1,5 +1,5 @@
-# MoDern -Accelerated NMR Spectroscopy: Merge Optimization with Deep Learning
-The proof-of-concept of merging the optimization with deep learning, as a reliable, versatile, and ultra-fast technique for high-quality NMR spectra reconstruction, and provides a rarely available understanding of the complex mapping in deep learning.
+# MoDern-Cloud: An Artificial Intelligence Cloud for Accelerated NMR Spectroscopy
+MoDern-Cloud is a reliable, widely-available, understandable, and ultra-fast reconstruction technique for highly accelerated NMR. This work develops the first cloud-based artificial intelligence platform for multi-dimensional NMR data processing, and is the proof-of-concept demonstration of the effectiveness of merging optimization, deep learning, and cloud computing.
 
 The preprint paper can be seen in https://arxiv.org/abs/2012.14830.
 
