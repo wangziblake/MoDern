@@ -14,13 +14,20 @@ Up to now, MoDern-Cloud uses model-inspired deep learning (MoDern) to fast recov
 The platform also provides a customized retrospectively undersampling technique (NUS simulator) to produce NUS data and the corresponding NUS mask from the fully sampled NMR data.
 
 Now, MoDern-Cloud is available at: http://36.134.147.88:2345/.
+
 You can access it using following test accounts:
+
 Account-1: CSG-001 Password-1: CSG@MYTEST_001
+
 Account-2: CSG-002 Password-2: MYTEST@CSG_002
+
 Account-3: CSG-003 Password-3: Modern-Cloud__003
 
 Details on the instructions of MoDern-Cloud are described in its Manual available on our cloud platform. We have provided some demo data and scripts on the cloud for the quick try.
 
+If you want to use the MoDern-Cloud, please cite the following paper:
+
+Zi Wang et al., Accelerated NMR spectroscopy: Merge Optimization with Deep Learning, arXiv preprint, arXiv:2012.14830, 2020.
 
 ## Training datasets for MoDern
 The synthetic training datasets used in MoDern paper are shared at: https://drive.google.com/file/d/1bZAP-ittB94wm0hB3SfVsvqXGwk05tkg/view?usp=sharing.
