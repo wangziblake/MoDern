@@ -3,14 +3,29 @@ MoDern-Cloud is a reliable, widely-available, understandable, and ultra-fast rec
 
 The preprint paper can be seen in https://arxiv.org/abs/2012.14830.
 
-Email: Xiaobo Qu (quxiaobo@xmu.edu.cn) CC: Zi Wang (wangziblake@163.com)
+Email: Xiaobo Qu (quxiaobo@xmu.edu.cn) CC: Zi Wang (wangzi1023@stu.xmu.edu.cn)
 
 Homepage: http://csrc.xmu.edu.cn
 
-## Training datasets
+
+## MoDern-Cloud: a cloud-based artificial intelligence platform
+MoDern-Cloud is an easy-to-use cloud computing platform for processing of non-uniformly sampled (NUS) multi-dimensional NMR spectra.
+Up to now, MoDern-Cloud uses model-inspired deep learning (MoDern) to fast recover high-quality multi-dimensional spectra from NUS data.
+The platform also provides a customized retrospectively undersampling technique (NUS simulator) to produce NUS data and the corresponding NUS mask from the fully sampled NMR data.
+
+Now, MoDern-Cloud is available at: http://36.134.147.88:2345/.
+You can access it using following test accounts:
+Account-1: CSG-001 Password-1: CSG@MYTEST_001
+Account-2: CSG-002 Password-2: MYTEST@CSG_002
+Account-3: CSG-003 Password-3: Modern-Cloud__003
+
+Details on the instructions of MoDern-Cloud are described in its Manual available on our cloud platform. We have provided some demo data and scripts on the cloud for the quick try.
+
+
+## Training datasets for MoDern
 The synthetic training datasets used in MoDern paper are shared at: https://drive.google.com/file/d/1bZAP-ittB94wm0hB3SfVsvqXGwk05tkg/view?usp=sharing.
 
-After requesting the access, please email me at wangziblake@163.com.
+After requesting the access, please email me at wangzi1023@stu.xmu.edu.cn.
 
 If you want to use the training datasets, please cite the following paper:
 
