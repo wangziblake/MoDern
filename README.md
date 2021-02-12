@@ -23,9 +23,9 @@ Account-2: CSG-002 Password-2: MYTEST@CSG_002
 
 Account-3: CSG-003 Password-3: Modern-Cloud__003
 
-Details on the instructions of MoDern-Cloud are described in its Manual, you can download here or on our cloud platform. 
+Details on the instructions of MoDern-Cloud are described in its Manual, you can download "Manual_MoDern-Cloud.pdf" here or on our cloud platform. 
 
-We also have provided some demo data and scripts on the cloud for the quick try, you can download here or on our cloud platform.
+We also have provided some demo data and scripts on the cloud for the quick try, you can download "Demo_data_scripts_MoDern-Cloud.zip" here or on our cloud platform.
 
 Hope you enjoy the reliable, efficient, and high-performance experience. If you find any questions in using MoDern-Cloud, please email me at wangzi1023@stu.xmu.edu.cn. 
 
