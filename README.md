@@ -27,15 +27,16 @@ Details on the instructions of MoDern-Cloud are described in its Manual, you can
 
 We also have provided some demo data and scripts on the cloud for the quick try, you can download here or on our cloud platform.
 
-If you want to use the MoDern-Cloud, please cite the following paper:
+Hope you enjoy the reliable, efficient, and high-performance experience. If you find any questions in using MoDern-Cloud, please email me at wangzi1023@stu.xmu.edu.cn. 
 
-Zi Wang et al., Accelerated NMR spectroscopy: Merge Optimization with Deep Learning, arXiv preprint, arXiv:2012.14830, 2020.
 
 ## Training datasets for MoDern
 The synthetic training datasets used in MoDern are shared at: https://drive.google.com/file/d/1bZAP-ittB94wm0hB3SfVsvqXGwk05tkg/view?usp=sharing.
 
 After requesting the access, please email me at wangzi1023@stu.xmu.edu.cn.
 
-If you want to use the training datasets, please cite the following paper:
+
+## Training datasets for MoDernCitint the platform and method
+If you want to use the platform and training datasets, please cite the following paper:
 
 Zi Wang et al., Accelerated NMR spectroscopy: Merge Optimization with Deep Learning, arXiv preprint, arXiv:2012.14830, 2020.
