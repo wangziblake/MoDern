@@ -13,7 +13,7 @@ MoDern-Cloud is an easy-to-use cloud computing platform for processing of non-un
 Up to now, MoDern-Cloud uses model-inspired deep learning (MoDern) to fast recover high-quality multi-dimensional spectra from NUS data.
 The platform also provides a customized retrospectively undersampling technique (NUS simulator) to produce NUS data and the corresponding NUS mask from the fully sampled NMR data.
 
-Now, MoDern-Cloud is available at: http://36.134.147.88:2345/.
+Now, MoDern-Cloud is available at: http://36.134.147.88:2345/, and we will continue to improve the using feeling.
 
 You can access it using following test accounts:
 
@@ -23,7 +23,9 @@ Account-2: CSG-002 Password-2: MYTEST@CSG_002
 
 Account-3: CSG-003 Password-3: Modern-Cloud__003
 
-Details on the instructions of MoDern-Cloud are described in its Manual available on our cloud platform. We have provided some demo data and scripts on the cloud for the quick try.
+Details on the instructions of MoDern-Cloud are described in its Manual, you can download here or on our cloud platform. 
+
+We also have provided some demo data and scripts on the cloud for the quick try, you can download here or on our cloud platform.
 
 If you want to use the MoDern-Cloud, please cite the following paper:
 
