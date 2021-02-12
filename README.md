@@ -36,7 +36,7 @@ The synthetic training datasets used in MoDern are shared at: https://drive.goog
 After requesting the access, please email me at wangzi1023@stu.xmu.edu.cn.
 
 
-## Training datasets for MoDernCitint the platform and method
+## Citint the platform and method
 If you want to use the platform and training datasets, please cite the following paper:
 
 Zi Wang et al., Accelerated NMR spectroscopy: Merge Optimization with Deep Learning, arXiv preprint, arXiv:2012.14830, 2020.
