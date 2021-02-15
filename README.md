@@ -8,7 +8,7 @@ Email: Xiaobo Qu (quxiaobo@xmu.edu.cn) CC: Zi Wang (wangzi1023@stu.xmu.edu.cn)
 Homepage: http://csrc.xmu.edu.cn
 
 
-## MoDern-Cloud: a cloud-based artificial intelligence platform
+## MoDern-Cloud: an artificial intelligence cloud platform
 MoDern-Cloud is an easy-to-use cloud computing platform for processing of non-uniformly sampled (NUS) multi-dimensional NMR spectra.
 Up to now, MoDern-Cloud uses model-inspired deep learning (MoDern) to fast recover high-quality multi-dimensional spectra from NUS data.
 The platform also provides a customized retrospectively undersampling technique (NUS simulator) to produce NUS data and the corresponding NUS mask from the fully sampled NMR data.
