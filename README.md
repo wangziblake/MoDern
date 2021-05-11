@@ -1,4 +1,4 @@
-# XCloud-MoDern: An Artificial Intelligence Cloud for Accelerated NMR Spectroscopy
+# XCloud-MoDern: A Sparse Model-inspired Deep Learning for Fast Biological Spectroscopy
 XCloud-MoDern is a reliable, widely-available, ultra-fast, and easy-to-use technique for highly accelerated NMR. This work develops the first cloud-based artificial intelligence platform for multi-dimensional NMR data processing, and is the proof-of-concept demonstration of the effectiveness of merging optimization, deep learning, and cloud computing.
 
 The preprint paper can be seen in https://arxiv.org/abs/2012.14830.
@@ -9,7 +9,7 @@ Homepage: http://csrc.xmu.edu.cn
 
 
 ## XCloud-MoDern: an artificial intelligence cloud platform
-XCloud-MoDern is an easy-to-use cloud computing platform for processing of non-uniformly sampled (NUS) multi-dimensional NMR spectra.
+XCloud-MoDern is an easy-to-use cloud computing platform for processing of non-uniformly sampled (NUS) multi-dimensional NMR spectra online.
 Up to now, XCloud-MoDern uses model-inspired deep learning (MoDern) to fast recover high-quality multi-dimensional spectra from NUS data.
 The platform also provides a customized retrospectively undersampling technique (NUS simulator) to produce NUS data and the corresponding NUS mask from the fully sampled NMR data.
 
