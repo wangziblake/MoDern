@@ -39,4 +39,6 @@ After requesting the access, please email me at wangzi1023@stu.xmu.edu.cn.
 ## Citing the platform and method
 If you want to use the platform and training datasets, please cite the following paper:
 
-Zi Wang et al., XCloud-MoDern: An Artificial Intelligence Cloud for Accelerated NMR Spectroscopy, arXiv preprint, arXiv:2012.14830, 2020.
+Zi Wang et al., A Sparse Model-inspired Deep Thresholding Network for Exponential Signal Reconstruction—Application in Fast Biological Spectroscopy, arXiv preprint, arXiv:2012.14830, 2020.
+
+This paper has been accepted by IEEE Transactions on Neural Networks and Learning Systems in Jan. 2022.
