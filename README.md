@@ -1,7 +1,8 @@
-# XCloud-MoDern: A Sparse Model-inspired Deep Learning for Fast Biological Spectroscopy
-XCloud-MoDern is a reliable, widely-available, ultra-fast, and easy-to-use technique for highly accelerated NMR. This work develops the first cloud-based artificial intelligence platform for multi-dimensional NMR data processing, and is the proof-of-concept demonstration of the effectiveness of merging optimization, deep learning, and cloud computing.
+# MoDern: A Sparse Model-inspired Deep Thresholding Network for Exponential Signal Reconstruction—Application in Fast Biological Spectroscopy
+MoDern is a reliable, widely-available, ultra-fast, and easy-to-use technique for highly accelerated NMR. This work develops the first cloud-based artificial intelligence platform (XCloud-MoDern) for multi-dimensional NMR data processing, and is the proof-of-concept demonstration of the effectiveness of merging optimization, deep learning, and cloud computing.
 
 The preprint paper can be seen in https://arxiv.org/abs/2012.14830.
+This paper has been accepted by IEEE Transactions on Neural Networks and Learning Systems in Jan. 2022.
 
 Email: Xiaobo Qu (quxiaobo@xmu.edu.cn) CC: Zi Wang (wangzi1023@stu.xmu.edu.cn)
 
