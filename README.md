@@ -3,7 +3,7 @@ MoDern is a reliable, widely-available, ultra-fast, and easy-to-use technique fo
 
 The preprint paper can be seen in https://arxiv.org/abs/2012.14830.
 
-This paper has been accepted by IEEE Transactions on Neural Networks and Learning Systems in Jan. 2022.
+This paper has been accepted by IEEE Transactions on Neural Networks and Learning Systems in Jan. 2022. DOI: 10.1109/TNNLS.2021.3134717.
 
 Email: Xiaobo Qu (quxiaobo@xmu.edu.cn) CC: Zi Wang (wangzi1023@stu.xmu.edu.cn)
 
@@ -41,6 +41,4 @@ After requesting the access, please email me at wangzi1023@stu.xmu.edu.cn.
 ## Citing the platform and method
 If you want to use the platform and training datasets, please cite the following paper:
 
-Zi Wang et al., A Sparse Model-inspired Deep Thresholding Network for Exponential Signal Reconstruction—Application in Fast Biological Spectroscopy, arXiv preprint, arXiv:2012.14830, 2020.
-
-This paper has been accepted by IEEE Transactions on Neural Networks and Learning Systems in Jan. 2022.
+Zi Wang et al., A Sparse Model-inspired Deep Thresholding Network for Exponential Signal Reconstruction—Application in Fast Biological Spectroscopy, IEEE Transactions on Neural Networks and Learning Systems, DOI: 10.1109/TNNLS.2021.3134717, 2022.
