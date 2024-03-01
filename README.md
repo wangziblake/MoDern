@@ -33,4 +33,4 @@ After requesting the access, please email me at wangzi1023@stu.xmu.edu.cn.
 ## Citation
 If you want to use the platform and training datasets, please cite the following paper:
 
-Zi Wang et al., A Sparse Model-inspired Deep Thresholding Network for Exponential Signal Reconstruction—Application in Fast Biological Spectroscopy, IEEE Transactions on Neural Networks and Learning Systems, DOI: 10.1109/TNNLS.2021.3134717, 2022.
+Zi Wang et al., A Sparse Model-inspired Deep Thresholding Network for Exponential Signal Reconstruction—Application in Fast Biological Spectroscopy, IEEE Transactions on Neural Networks and Learning Systems, 34(10): 7578-7592, 2023.
