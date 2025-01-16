@@ -15,7 +15,7 @@ XCloud-MoDern is an easy-to-use cloud computing platform for processing of non-u
 Up to now, XCloud-MoDern uses model-inspired deep learning (MoDern) to fast recover high-quality multi-dimensional spectra from NUS data.
 The platform also provides a customized retrospectively undersampling technique (NUS simulator) to produce NUS data and the corresponding NUS mask from the fully sampled NMR data.
 
-Now, XCloud-MoDern is available at: http://36.138.17.102:8989/, and we will continue to improve the using feeling.
+Now, XCloud-MoDern is available at: https://csrc.xmu.edu.cn/CloudBrain.html, and we will continue to improve the using feeling.
 
 Details on the instructions of XCloud-MoDern are described in its Manual, you can download "Manual_XCloud-MoDern.pdf" here (old version) or on our cloud platform (latest version). 
 
