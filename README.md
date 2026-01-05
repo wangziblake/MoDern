@@ -25,7 +25,7 @@ Hope you enjoy the reliable, efficient, and high-performance experience. If you 
 ## Training datasets for MoDern
 The synthetic training datasets used in MoDern are shared at: https://drive.google.com/file/d/1bZAP-ittB94wm0hB3SfVsvqXGwk05tkg/view?usp=sharing.
 
-After requesting the access, please email me at wangzi1023@stu.xmu.edu.cn.
+After requesting the access, please email me at zi.wang@imperial.ac.uk.
 
 
 ## Citation
