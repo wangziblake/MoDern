@@ -19,7 +19,7 @@ Details on the instructions of XCloud-MoDern are described in its Manual, you ca
 
 We also have provided some demo data and scripts on the cloud for the quick try, you can download "Demo_data_scripts_XCloud-MoDern.zip" here (old version) or on our cloud platform (latest version).
 
-Hope you enjoy the reliable, efficient, and high-performance experience. If you find any questions in using XCloud-MoDern, please email me at wangzi1023@stu.xmu.edu.cn. 
+Hope you enjoy the reliable, efficient, and high-performance experience. If you find any questions in using XCloud-MoDern, please email me at zi.wang@imperial.ac.uk. 
 
 
 ## Training datasets for MoDern
@@ -31,4 +31,4 @@ After requesting the access, please email me at zi.wang@imperial.ac.uk.
 ## Citation
 If you want to use the platform and training datasets, please cite the following paper:
 
-Zi Wang et al., A Sparse Model-inspired Deep Thresholding Network for Exponential Signal Reconstruction—Application in Fast Biological Spectroscopy, IEEE Transactions on Neural Networks and Learning Systems, 34(10): 7578-7592, 2023.
+Zi Wang et al., A Sparse Model-inspired Deep Thresholding Network for Exponential Signal Reconstruction—Application in Fast Biological Spectroscopy, ***IEEE Transactions on Neural Networks and Learning Systems***, 34(10): 7578-7592, 2023.
