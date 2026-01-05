@@ -5,9 +5,7 @@ The preprint paper can be seen in https://arxiv.org/abs/2012.14830.
 
 This paper has been accepted by IEEE Transactions on Neural Networks and Learning Systems (2022) in http://dx.doi.org/10.1109/TNNLS.2022.3144580.
 
-Email: Xiaobo Qu (quxiaobo@xmu.edu.cn) CC: Zi Wang (wangzi1023@stu.xmu.edu.cn)
-
-Homepage: http://csrc.xmu.edu.cn
+Email: Dr. Zi Wang (zi.wang@imperial.ac.uk); Dr. Xiaobo Qu (quxiaobo@xmu.edu.cn)
 
 
 ## XCloud-MoDern: an artificial intelligence cloud platform
